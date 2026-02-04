@@ -4,6 +4,7 @@ import { FormEvent, useState } from 'react';
 import { initFirebase } from '../../firebase/init';
 import { GoogleAuthProvider, signInWithPopup, signInWithEmailAndPassword } from 'firebase/auth';
 import { Button } from '../Button';
+import { GoogleButton } from './GoogleButton';
 
 export function LoginForm() {
   const { auth } = initFirebase();
@@ -42,6 +43,9 @@ export function LoginForm() {
 
   return (
     <form onSubmit={handleSubmit} className="space-y-6">
+      <div className="rounded-2xl border border-slate-200 bg-slate-50 p-4 text-sm text-slate-600">
+        Use single sign-on with Google to jump back into your learner dashboard in one tap.
+      </div>
       <div className="space-y-2">
         <label htmlFor="email" className="text-sm font-medium text-text">
           Email address
@@ -63,9 +67,12 @@ export function LoginForm() {
       <Button type="submit" disabled={loading} className="w-full">
         {loading ? 'Signing in…' : 'Sign in'}
       </Button>
-      <Button type="button" variant="secondary" onClick={handleGoogle} disabled={loading} className="w-full">
-        Continue with Google
-      </Button>
+      <div className="flex items-center gap-3 text-xs uppercase tracking-[0.2em] text-slate-400">
+        <span className="h-px flex-1 bg-slate-200" />
+        Or
+        <span className="h-px flex-1 bg-slate-200" />
+      </div>
+      <GoogleButton onClick={handleGoogle} disabled={loading} label="Continue with Google" />
       {message && <p className="text-sm text-slate-600">{message}</p>}
     </form>
   );
