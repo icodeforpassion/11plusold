@@ -8,6 +8,8 @@ import { Stat } from '../../components/Stat';
 import { TrendSparkline } from '../../components/TrendSparkline';
 import Link from 'next/link';
 import Script from 'next/script';
+import { QuestionBankExplorer } from '../../components/QuestionBankExplorer';
+import { StudyBuddy3D } from '../../components/StudyBuddy3D';
 
 export const metadata: Metadata = {
   alternates: {
@@ -139,6 +141,21 @@ export default function MarketingPage() {
                 Fast Next.js pages with schema markup help parents discover ElevenSpark when searching for 11+ support.
               </p>
             </Card>
+          </div>
+        </section>
+
+        <section className="bg-white py-16" id="study-buddy">
+          <div className="mx-auto max-w-6xl space-y-8 px-4">
+            <div className="space-y-2 text-center">
+              <h2 className="text-3xl font-heading font-semibold text-text">Question Bank + Interactive Study Buddy</h2>
+              <p className="text-slate-600">
+                Static question datasets are lazy-loaded per subject to keep initial page weight light while supporting large-scale practice.
+              </p>
+            </div>
+            <div className="grid gap-6 lg:grid-cols-2">
+              <QuestionBankExplorer />
+              <StudyBuddy3D />
+            </div>
           </div>
         </section>
         <section className="bg-white py-16">
