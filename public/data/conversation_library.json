@@ -1,0 +1,4082 @@
+[
+  {
+    "id": "conv-1",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-2",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-3",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-4",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-5",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-6",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-7",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-8",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-9",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-10",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-11",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-12",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-13",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-14",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-15",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-16",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-17",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-18",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-19",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-20",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-21",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-22",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-23",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-24",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-25",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-26",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-27",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-28",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-29",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-30",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-31",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-32",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-33",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-34",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-35",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-36",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-37",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-38",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-39",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-40",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-41",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-42",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-43",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-44",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-45",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-46",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-47",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-48",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-49",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-50",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-51",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-52",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-53",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-54",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-55",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-56",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-57",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-58",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-59",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-60",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-61",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-62",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-63",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-64",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-65",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-66",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-67",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-68",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-69",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-70",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-71",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-72",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-73",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-74",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-75",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-76",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-77",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-78",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-79",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-80",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-81",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-82",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-83",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-84",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-85",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-86",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-87",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-88",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-89",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-90",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-91",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-92",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-93",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-94",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-95",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-96",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-97",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-98",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-99",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-100",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-101",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-102",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-103",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-104",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-105",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-106",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-107",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-108",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-109",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-110",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-111",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-112",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-113",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-114",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-115",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-116",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-117",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-118",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-119",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-120",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-121",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-122",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-123",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-124",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-125",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-126",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-127",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-128",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-129",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-130",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-131",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-132",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-133",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-134",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-135",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-136",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-137",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-138",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-139",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-140",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-141",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-142",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-143",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-144",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-145",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-146",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-147",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-148",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-149",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-150",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-151",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-152",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-153",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-154",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-155",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-156",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-157",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-158",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-159",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-160",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-161",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-162",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-163",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-164",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-165",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-166",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-167",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-168",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-169",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-170",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-171",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-172",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-173",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-174",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-175",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-176",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-177",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-178",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-179",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-180",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-181",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-182",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-183",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-184",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-185",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-186",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-187",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-188",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-189",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-190",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-191",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-192",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-193",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-194",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-195",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-196",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-197",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-198",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-199",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-200",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-201",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-202",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-203",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-204",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-205",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-206",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-207",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-208",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-209",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-210",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-211",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-212",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-213",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-214",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-215",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-216",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-217",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-218",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-219",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-220",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-221",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-222",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-223",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-224",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-225",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-226",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-227",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-228",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-229",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-230",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-231",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-232",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-233",
+    "topic": "fractions",
+    "keywords": [
+      "fractions",
+      "fractions help",
+      "how to fractions",
+      "fractions tips",
+      "learn fractions"
+    ],
+    "prompt_examples": [
+      "Can you help with fractions?",
+      "I struggle with fractions.",
+      "How do I improve fractions?"
+    ],
+    "answer": "Break it into equal parts, simplify where possible, then convert to common denominators before adding or subtracting. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-234",
+    "topic": "times tables",
+    "keywords": [
+      "times tables",
+      "times tables help",
+      "how to times tables",
+      "times tables tips",
+      "learn times tables"
+    ],
+    "prompt_examples": [
+      "Can you help with times tables?",
+      "I struggle with times tables.",
+      "How do I improve times tables?"
+    ],
+    "answer": "Use skip-counting patterns and chant the table in groups of 3 rounds for speed. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-235",
+    "topic": "vocabulary",
+    "keywords": [
+      "vocabulary",
+      "vocabulary help",
+      "how to vocabulary",
+      "vocabulary tips",
+      "learn vocabulary"
+    ],
+    "prompt_examples": [
+      "Can you help with vocabulary?",
+      "I struggle with vocabulary.",
+      "How do I improve vocabulary?"
+    ],
+    "answer": "Read the sentence clues around the word, then test each option aloud for meaning. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-236",
+    "topic": "comprehension",
+    "keywords": [
+      "comprehension",
+      "comprehension help",
+      "how to comprehension",
+      "comprehension tips",
+      "learn comprehension"
+    ],
+    "prompt_examples": [
+      "Can you help with comprehension?",
+      "I struggle with comprehension.",
+      "How do I improve comprehension?"
+    ],
+    "answer": "Skim first, then scan for evidence and underline keywords from the question. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-237",
+    "topic": "nvr patterns",
+    "keywords": [
+      "nvr patterns",
+      "nvr patterns help",
+      "how to nvr patterns",
+      "nvr patterns tips",
+      "learn nvr patterns"
+    ],
+    "prompt_examples": [
+      "Can you help with nvr patterns?",
+      "I struggle with nvr patterns.",
+      "How do I improve nvr patterns?"
+    ],
+    "answer": "Check one rule at a time: shape, rotation, shading, size, and position. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-238",
+    "topic": "exam nerves",
+    "keywords": [
+      "exam nerves",
+      "exam nerves help",
+      "how to exam nerves",
+      "exam nerves tips",
+      "learn exam nerves"
+    ],
+    "prompt_examples": [
+      "Can you help with exam nerves?",
+      "I struggle with exam nerves.",
+      "How do I improve exam nerves?"
+    ],
+    "answer": "Use box breathing: breathe in 4, hold 4, out 4, hold 4, repeat 4 times. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-239",
+    "topic": "planning revision",
+    "keywords": [
+      "planning revision",
+      "planning revision help",
+      "how to planning revision",
+      "planning revision tips",
+      "learn planning revision"
+    ],
+    "prompt_examples": [
+      "Can you help with planning revision?",
+      "I struggle with planning revision.",
+      "How do I improve planning revision?"
+    ],
+    "answer": "Split work into 25-minute focus blocks with 5-minute breaks. Try one mini-question now and I can guide your next step."
+  },
+  {
+    "id": "conv-240",
+    "topic": "word problems",
+    "keywords": [
+      "word problems",
+      "word problems help",
+      "how to word problems",
+      "word problems tips",
+      "learn word problems"
+    ],
+    "prompt_examples": [
+      "Can you help with word problems?",
+      "I struggle with word problems.",
+      "How do I improve word problems?"
+    ],
+    "answer": "Highlight numbers, identify what is asked, choose operation, estimate, then solve. Try one mini-question now and I can guide your next step."
+  }
+]
