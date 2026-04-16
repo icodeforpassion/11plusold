@@ -51,6 +51,7 @@ export default function MarketingPage() {
           sameAs: ['https://www.facebook.com', 'https://www.instagram.com']
         })}
       </Script>
+      <Script async src="https://js.stripe.com/v3/buy-button.js" strategy="afterInteractive" />
       <Navigation />
       <main>
         <Hero />
@@ -165,6 +166,12 @@ export default function MarketingPage() {
               "ElevenSpark makes practice feel manageable. My daughter loves the streaks, and I appreciate the gentle email
               reminders." – Priya, parent of Year 5 learner.
             </p>
+            <div className="mt-8 flex justify-center">
+              <stripe-buy-button
+                buy-button-id="buy_btn_1TMdWbCbDq3vgryvTsqzgBDM"
+                publishable-key="pk_live_51SxFeACbDq3vgryv3uynF8vFA891o7dorY10J6lKs047MoAHyrNqRGZxGSs0YXi71vPyeWabuoctPnVsJuySDXpl00u2vnAzn1"
+              />
+            </div>
           </div>
         </section>
       </main>
