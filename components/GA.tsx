@@ -2,23 +2,31 @@
 
 import { useEffect } from 'react';
 import Script from 'next/script';
+import { usePathname, useSearchParams } from 'next/navigation';
 
-const GA_ID = process.env.NEXT_PUBLIC_GA_ID;
+const GA_ID =
+  process.env.NEXT_PUBLIC_GA_ID || process.env.NEXT_PUBLIC_GTAG_ID || process.env.NEXT_PUBLIC_GOOGLE_TAG_ID;
+
+declare global {
+  interface Window {
+    dataLayer: unknown[];
+    gtag?: (...args: unknown[]) => void;
+  }
+}
 
 export function GA() {
-  useEffect(() => {
-    if (!GA_ID) return;
-    const handleRouteChange = (url: string) => {
-      if (typeof window === 'undefined') return;
-      (window as any).gtag?.('config', GA_ID, {
-        page_path: url
-      });
-    };
+  const pathname = usePathname();
+  const searchParams = useSearchParams();
 
-    const listener = () => handleRouteChange(window.location.pathname);
-    window.addEventListener('hashchange', listener);
-    return () => window.removeEventListener('hashchange', listener);
-  }, []);
+  useEffect(() => {
+    if (!GA_ID || !pathname) return;
+    const search = searchParams?.toString();
+    const pagePath = search ? `${pathname}?${search}` : pathname;
+
+    window.gtag?.('config', GA_ID, {
+      page_path: pagePath
+    });
+  }, [pathname, searchParams]);
 
   if (!GA_ID) return null;
 
@@ -29,9 +37,10 @@ export function GA() {
         {`
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
+          window.gtag = gtag;
           gtag('js', new Date());
           gtag('config', '${GA_ID}', {
-            page_path: window.location.pathname,
+            page_path: window.location.pathname + window.location.search,
           });
         `}
       </Script>
