@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 import { Card } from '../../../components/Card';
 import { Button } from '../../../components/Button';
+import { ShareSupportWidget } from '../../../components/ShareSupportWidget';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
@@ -46,6 +47,11 @@ export default function MathsPracticePage() {
           </ul>
           <p className="text-xs text-slate-500">We focus on confidence and clarity — no pass guarantees.</p>
         </Card>
+        <ShareSupportWidget
+          context="quiz"
+          title="Nice work today 🎉 Share Prepify11Plus with a friend?"
+          subtitle="Every share helps another child learn with confidence. We appreciate your support."
+        />
       </div>
     </div>
   );
