@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import { Card } from '../../components/Card';
 import { Button } from '../../components/Button';
 import { ResponsiveTable } from '../../components/ResponsiveTable';
+import { ShareSupportWidget } from '../../components/ShareSupportWidget';
 
 export const metadata: Metadata = {
   title: 'Vocabulary Review | ElevenSpark'
@@ -30,6 +31,11 @@ export default function VocabPage() {
           <Button className="w-full">Start review session</Button>
           <p className="text-xs text-slate-500">Need a break? Pause anytime — we focus on confidence, not cramming.</p>
         </Card>
+        <ShareSupportWidget
+          context="milestone"
+          title="Thanks for supporting Prepify11Plus"
+          subtitle="If Prepify11Plus has helped your family, sharing means a lot."
+        />
       </div>
     </div>
   );
