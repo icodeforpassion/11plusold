@@ -10,7 +10,7 @@ import Link from 'next/link';
 import Script from 'next/script';
 import { QuestionBankExplorer } from '../../components/QuestionBankExplorer';
 import { StudyBuddy3D } from '../../components/StudyBuddy3D';
-import { ShareSupportWidget, ShareButton } from '../../components/ShareSupportWidget';
+import { ShareSupportWidget } from '../../components/ShareSupportWidget';
 
 export const metadata: Metadata = {
   alternates: {
@@ -183,11 +183,6 @@ export default function MarketingPage() {
           />
         </section>
       </main>
-      <div className="pointer-events-none fixed bottom-5 right-5 z-40 hidden lg:block">
-        <div className="pointer-events-auto rounded-full border border-slate-200 bg-white/95 p-2 shadow-lg backdrop-blur">
-          <ShareButton context="homepage" className="px-4 py-2 text-xs" />
-        </div>
-      </div>
       <Footer />
     </div>
   );
