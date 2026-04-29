@@ -156,17 +156,7 @@ function ShareModal({ open, onClose, context }: { open: boolean; onClose: () => 
 export function ShareButton({ context = 'general', className }: { context?: ShareContext; className?: string }) {
   const [open, setOpen] = useState(false);
 
-  async function onShare() {
-    const url = getPageUrl();
-    const text = getCurrentMessage(context);
-    try {
-      if (navigator.share) {
-        await navigator.share({ title: 'Prepify11Plus', text, url });
-        return;
-      }
-    } catch {
-      // intentionally silent fallback to modal
-    }
+  function onShare() {
     setOpen(true);
   }
 
